@@ -25,7 +25,7 @@ It's been an interesting few months, as a couple of weeks after announcing the b
 It's been a lot of work, but I feel I can see the light at the end of the tunnel, which encourages me to get things finished.
 
 <div class="text-center p-3">
-<a href="https://bit.ly/3fYhPha" class="btn btn-info">Purchase Testing Web APIs now</a>
+<a href="https://bit.ly/3Gyrear" class="btn btn-info">Purchase Testing Web APIs now</a>
 </div>
 
 ## New chapters released to MEAP
@@ -40,7 +40,7 @@ With that in mind, I'm pleased to announce we've expanded the chapters in the ME
 As we come to a close with the first draft work, the plan is to release a new chapter each month for MEAP. So check back regularly for new chapters.
 
 <div class="text-center p-3">
-<a href="https://bit.ly/3fYhPha" class="btn btn-info">Purchase Testing Web APIs now</a>
+<a href="https://bit.ly/3Gyrear" class="btn btn-info">Purchase Testing Web APIs now</a>
 </div>
 
 ## Pick up a copy today
